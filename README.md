@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @niktody
-- 👀 I’m interested in linux
+- 👋 Hi, I’m Nik
+- 👀 I’m interested in linux 
 
 <!---
 niktody/niktody is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
